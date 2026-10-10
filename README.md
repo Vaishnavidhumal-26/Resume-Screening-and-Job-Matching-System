@@ -93,6 +93,3 @@ Keyword matching only recognizes terms in that list. Add common variants and tes
 - Add batch resume screening and downloadable reports.
 - Evaluate results on a labeled dataset with suitable metrics.
 - Improve text extraction and input validation.
-
-## Author
-Add your name and GitHub/portfolio links here before publishing.
